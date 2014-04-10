@@ -1,1 +1,2 @@
 This is in Branch A
+This is in Branch B
